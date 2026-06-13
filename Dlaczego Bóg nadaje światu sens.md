@@ -7,8 +7,6 @@
 **Tytuł oryginału:** *Why God Makes Sense in a World That Doesn't: The Beauty of Christian Theism*
 **Przekład:** Paweł Borkowski · **Wydawca:** eSPe, Kraków 2022 · **Oryginał:** Baker Academic, Grand Rapids
 
-Poniższy tekst to obszerne, opisowe omówienie całej książki — napisane tak, by mógł je przeczytać ktoś, kto nigdy jej nie miał w ręku, i dowiedzieć się, o czym ona właściwie jest. Powstało na podstawie czterech plików PDF (skanów polskiego wydania); numery stron odsyłają do paginacji drukowanej.
-
 ---
 
 ## O czym jest ta książka i dlaczego powstała
