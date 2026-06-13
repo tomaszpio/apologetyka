@@ -148,32 +148,61 @@ Książka to **jedenaście fikcyjnych wywiadów** (plus nota techniczna, wprowad
 
 **Logika całości:** waga problemu (1) → definicje (2) → historia (3) → dane doświadczenia moralnego (4) → demontaż 8 argumentów za relatywizmem (5–7) → korzeń: redukcjonizm (8) → 7 dowodów na absolutyzm (9) → fundamenty metafizyczne (10) → przyczyna i lekarstwo (11).
 
-## Wywiady 1–4 — przygotowanie pola (konspekt)
+## Wywiady 1–4 — przygotowanie pola (szczegółowy konspekt)
 
-**Wywiad 1 — Dlaczego to ważne (s. 9–20)**
-- Teza Lewisa: relatywizm „potępi nasze dusze i zakończy nasz gatunek".
-- Auschwitz jako owoc relatywizmu; cytat Mussoliniego (*Diuturna*, s. 374–77) — faszyzm jako „relatywizm w działaniu".
-- Twarda wersja relatywizmu → Auschwitz; miękka → *Nowy wspaniały świat*.
-- Argument historyczny: nigdy nie istniało trwałe społeczeństwo relatywistów; Zachód albo obali prawo historii, albo się nawróci, albo zginie.
-- Łańcuch religijny: relatywizm znosi prawo moralne → grzech → pokutę → zbawienie.
-- Zasada „pierwszych i drugich rzeczy": najpierw umiłowanie prawdy (serce), potem jej poznanie (umysł).
+Pierwsze cztery wywiady nie obalają jeszcze relatywizmu wprost — przygotowują pole: pokazują, *dlaczego* sprawa jest ważna (1), *czym* jest relatywizm (2), *skąd* się wziął (3) i *na jakich danych* w ogóle można się oprzeć (4).
 
-**Wywiad 2 — Definicje (s. 21–28)**
-- Relatywizm neguje *wszelkie* absoluty; absolutyzm uznaje przynajmniej jeden.
-- Cztery odmiany: metafizyczny (= ateizm), epistemologiczny (= sceptycyzm), moralny, religijny.
-- „Moralne" = to, co powinniśmy/czego nie powinniśmy robić (obowiązek). „Absolut" = nie-względny, konieczny, bez „jeśli".
+### Wywiad 1 — Dlaczego ta sprawa jest ważna (s. 9–20)
 
-**Wywiad 3 — Historia (s. 29–46)**
-- Pierwszy relatywista: Szatan w Edenie. Pierwsi ludzcy: sofiści (Protagoras: „człowiek miarą wszechrzeczy") — paradoks: relatywizm arogancki, absolutyzm Sokratesa pokorny.
-- Nominalizm Ockhama jako fundament; brzytwa Ockhama → teoria nakazu Bożego, rozejście wiary i rozumu.
-- Dylemat Eutyfrona — odpowiedź: oba naraz (natura aktu + wola Boga, racjonalna, bo z Jego natury).
-- Empiryzm → emotywizm (Hume); Kant („rewolucja kopernikańska", moralność autonomiczna) — 9/10 drogi do relatywizmu; Nietzsche, pozytywizm, dekonstrukcjonizm.
-- Pozytywizm moralny jako prawo USA (*Planned Parenthood v. Casey*); demaskacja słowa „wartości".
+- **Kryterium ważności (William James).** Libby przyjmuje pragmatyczne kryterium prawdy („prawda znaczy tyle co trafność/relevancja"). 'Isa koryguje: „prawda znaczy prawdę, a trafność znaczy trafność" — ale tylko niektóre prawdy są ważne i tylko nimi warto się zajmować. Ta akurat różnicę w życiu robi.
+- **Rama socjologiczna Libby.** Większość ludzi Zachodu boi się absolutyzmu, bo widzi świat podzielony na kraje wolne (pluralistyczne demokracje) i monolityczne (islamskie, komunistyczne, „katolickie"), które narzucają jedną ortodoksję i nie tolerują sprzeciwu. Problemy wolnych społeczeństw łata się edukacją i programami społecznymi, a nie „przesiadką na absolutystyczny statek".
+- **Auschwitz jako owoc relatywizmu.** 'Isa: „zacznijmy od Auschwitz — to owoc relatywizmu moralnego". Gdy Libby zarzuca mu gołosłowność, przytacza **Mussoliniego** (*Diuturna*, s. 374–77): „wszystko, co powiedziałem i zrobiłem w tych latach, to relatywizm w działaniu (…); skoro wszystkie ideologie są równowartościowe, to każdy ma prawo stworzyć sobie własną i narzucać ją z całą energią". Faszyzm jako konsekwencja relatywizmu.
+- **Twarda i miękka wersja.** Ameryka nie jest Auschwitz, ale „kupuje filozofię, która do niego doprowadziła". Twarda wersja relatywizmu prowadzi do Auschwitz (Niemcy), miękka — do *Nowego wspaniałego świata*.
+- **Argument historyczny.** Nowoczesny Zachód to pierwsze społeczeństwo, którego „kształtujący umysły" są relatywistami. Nigdy nie istniało trwałe społeczeństwo relatywistów (jak nie ma społeczeństwa solipsystów). Stąd alternatywa: Zachód albo obali jedno z najlepiej udokumentowanych praw historii, albo nawróci się i przetrwa, albo przy relatywizmie zginie. „To społeczeństwo" = nowoczesny Zachód: demokratyczny, pluralistyczny, świecki, naukowy, przemysłowy, postoświeceniowy; geograficznie Europa i jej dawne kolonie, teologicznie „odstępcze chrześcijaństwo".
+- **Wymiar religijny — „potępi nasze dusze".** 'Isa cytuje C. S. Lewisa (*The Poison of Subjectivism*): relatywizm „z pewnością potępi nasze dusze i zakończy nasz gatunek". Łańcuch: by być zbawionym, trzeba pokuty; nie ma pokuty bez wiary w grzech; nie ma grzechu bez realnego prawa moralnego; relatywizm znosi prawo → grzech → pokutę → zbawienie. „Nie przyszedłem wzywać sprawiedliwych, lecz grzeszników do nawrócenia".
+- **„Zakończy nasz gatunek".** Cały gatunek się „westernizuje" (amerykański imperializm kulturowy: muzyka, „seks w stylu Calvina Kleina"). Obraz: Ameryka jako Dracula, inne kultury jako ofiary, które „bledną"; refutacja relatywizmu to „kołek osinowy" — działa moc prawdy/światła, nie osoby.
+- **Paradoks religijnej Ameryki.** Ameryka jest jednym z najbardziej religijnych krajów (połowa chodzi do kościoła, 95% wierzy w Boga), a zarazem ma najwięcej rozwodów, aborcji, samobójstw, narkotyków, pornografii. Bo „religia jest równie relatywistyczna jak społeczeństwo" — „Bóg uczyniony na obraz świata nie może świata zbawić". Religia robiona na własną miarę roznosi ludzką „infekcję" — jak wieża Babel; trzeba, by Bóg zszedł do Abrahama (Nowe Jeruzalem zstępuje z nieba).
+- **Pierwsze i drugie rzeczy.** Pierwszym krokiem ku prawdzie jest jej *umiłowanie* (nawrócenie serca = „szukanie"), drugim jej *poznanie* (nawrócenie umysłu = „znalezienie"). Uczciwy ateista szukający prawdy jest bliżej Boga niż relatywistyczny „chodzący do kościoła", który zna prawdę, ale nie chce się jej poddać (św. Paweł do Greków w Atenach: już czcili prawdziwego Boga).
+- **Zaskakujący zwrot.** 'Isa dowodzi Libby, że jeśli przyjmuje relatywizm, bo uważa go za *prawdziwy*, to w istocie poddaje się prawdzie — a więc „w zasadzie jest absolutystką" (poddaje się pierwszemu prawu: „szukaj prawdy"). Libby, poruszona, prosi o przerwę na spacer brzegiem morza („morze nauczy cię bez słów").
 
-**Wywiad 4 — Dane (s. 47–57)**
-- Cztery poziomy danych moralnych: indywidualne doświadczenie, zachowanie międzyosobowe, język moralny, tradycja („demokracja zmarłych" — Chesterton).
-- Pierwsze doświadczenie moralne jest zawsze absolutystyczne; dane sądzą teorię, nie odwrotnie.
-- Relatywizm zaprzecza danym jak buddysta materii → jest „wiarą, dogmatem, ideologią".
+### Wywiad 2 — Czym właściwie jest relatywizm (s. 21–28)
+
+- **Cel i ton.** Kreeft uprzedza, że to wywiad „najnudniejszy"; 'Isa odpowiada, że każdy dialog sokratejski definiował termin i żaden nudny nie był. Cel książki jest jawny: nie „dać dobre racje", lecz *udowodnić* absolutyzm i *obalić* relatywizm („obnażyć go, zdemaskować").
+- **Definicja relatywizmu.** Filozofia negująca *wszelkie* absoluty: wszyscy uznają, że *niektóre* rzeczy są względne, ale relatywizm twierdzi, że *wszystkie*.
+- **Cztery odmiany — zagnieżdżone.** (1) *Metafizyczny* — brak absolutu w rzeczywistości (= ateizm, jeśli „Bóg" = Byt Absolutny). (2) *Epistemologiczny* — absolut może istnieje, ale jest niepoznawalny (= sceptycyzm/agnostycyzm). (3) *Moralny* — mogą istnieć absoluty pozamoralne („2+2=4"), ale nie w moralności. (4) *Religijny* — może w moralności, ale nie ma jednej najprawdziwszej religii. Trzy pierwsze definiuje się po to, by od nich *odróżnić* i *zawęzić* relatywizm moralny. Rozróżnienie: metafizyka dotyczy *bytu*, religia — *relacji* z Bytem Absolutnym.
+- **Definicja „moralnego".** Jakość ludzi i czynów wyrażana słowami dobro/zło; ale nie każde dobro jest moralne (dobry samochód), a moralne dobro/zło to słuszność/niesłuszność; lecz nie każde „słuszne" jest moralne (słuszna odpowiedź w teście). Stąd: moralność dotyczy tego, co **powinniśmy/czego nie powinniśmy** robić — imperatywu, obowiązku. 'Isa świadomie trzyma się języka potocznego.
+- **Definicja „absolutu".** „Względne" = zawsze względem czegoś innego, warunkowe, zależne; „absolutne" = nie-względne, nie warunkowe lecz konieczne, „bez żadnych «jeśli»". Przykłady: „Nie kradnij, *jeśli* to komuś szkodzi" (względne) vs. „Nie kradnij, kropka" (absolutne — Kantowski imperatyw kategoryczny); „Czyń dobrze innym, *jeśli* chcesz, by oni czynili dobrze tobie" (względne) vs. „Czyń dobrze innym zawsze" (absolutne).
+
+### Wywiad 3 — Skąd wziął się relatywizm (s. 29–46)
+
+- **Absolutyzm nie ma historii.** Jest „odwieczny, naturalny, od początku" — wypływa z natury ludzkiej i sumienia; wszystkie kultury go nauczały (tradycja). To relatywizm „zaczyna się na ziemi, w czasie".
+- **Sumienie tylko w jednostkach.** Nie istnieje osobny „sumienie zbiorowe" jako dodatkowy byt: w społeczeństwie stu ludzi jest sto sumień, nie sto jeden. „Odpowiedzialność zbiorowa" to mit, który zdejmuje winę z realnych osób (Holokaust, niewolnictwo) i zrzuca ją na „ducha czasu".
+- **Pierwszy relatywista — Szatan** w Edenie („dobro i zło są względne; poznasz ciemną stronę Boga"). Reklama Szatana — „najstarszy zawód świata".
+- **Sofiści** (jak ich przedstawia Platon) — pierwsi ludzcy relatywiści; **Protagoras**: „człowiek jest miarą wszechrzeczy". Sofiści zwali się „mędrcami", Sokrates tylko „miłośnikiem mądrości" (pokora). Paradoks: relatywizm jest w istocie *arogancki* (jeśli ja jestem miarą, jestem Bogiem), a absolutyzm Sokratesa *pokorny* (to Bóg jest miarą) — odwrotnie niż w medialnym stereotypie.
+- **Dalsze etapy w starożytności.** Sceptyczna Późna Akademia (stąd „akademicki" = „sceptyczny"; Augustyn *Przeciw akademikom*); epikurejczycy (materialiści, hedoniści), zwalczani przez stoików, arystotelików i neoplatoników.
+- **Średniowiecze — korzeń nowoczesny.** Relatywistów mało (Awerroes — dwie prawdy; Abelard — subiektywna intencja czynem decydującym). Główny fundament to **nominalizm Wilhelma Ockhama**: uniwersalia to tylko nazwy → nie ma realnych uniwersaliów moralnych. „Brzytwa Ockhama" (nie mnożyć bytów, wybierać najprostsze, najbardziej redukcjonistyczne wyjaśnienie) zilustrowana przykładami: tłumaczenie nazizmu (demony vs ekonomia) albo schizofrenii (dusza vs mózg).
+- **Brzytwa → teoria nakazu Bożego.** Luter, Kalwin, Kartezjusz odcinają prawo naturalne; teoria nakazu Bożego mówi, że tylko Boży nakaz czyni akt dobrym, podczas gdy teoria prawa naturalnego dodaje przyczynę bliższą (natura aktu i człowieka). Religijni nominaliści odcięli prawo naturalne, świeccy — prawo Boże; tak wiara i rozum stały się wrogami zamiast sojusznikami.
+- **Dylemat Eutyfrona.** „Czy rzecz jest dobra, bo Bóg ją chce, czy Bóg chce jej, bo jest dobra?". Przy wielu bogach Sokrates łatwo wygrywa (jeden bóg kocha to, co inny nienawidzi). Przy jednym Bogu pojawia się dylemat: albo prawo Boże czyni akt dobrym (Bóg arbitralny, despota), albo natura aktu jest przyczyną woli Boga (coś ponad Bogiem). **Odpowiedź 'Isy: oba naraz** — akt jest dobry zarazem przez swoją naturę i przez wolę Boga, a wola Boga nie jest arbitralna, bo wypływa z Jego dobrej natury (trzy przyczyny: natura Boga, wola Boga, natura aktu; brzytwa błędnie odcina dwie).
+- **Oświecenie = „Zaćmienie".** Racjonalizm (Kartezjusz) → empiryzm → romantyzm (emocja jako kryterium).
+- **Empiryzm → emotywizm.** Skoro dobra i zła nie widać zmysłami, muszą być subiektywne; „morderstwo jest złe" znaczy tak naprawdę „nienawidzę morderstwa" (**Hume** — kluczowa postać; bohater pozytywizmu logicznego i filozofii analitycznej XX w.). Stąd aksjomat filozofii analitycznej: radykalne oddzielenie *faktów* (obiektywnych) od *wartości* (nieobiektywnych), które „przesączyło się" do mowy potocznej.
+- **Demaskacja słowa „wartości".** Nieużywane w etyce przed XIX w. (Nietzsche, może Kant). Zdanie „nie narzucaj mi swoich wartości" byłoby dla kogokolwiek przed Kantem niezrozumiałe — i jest hipokryzją, bo to relatywistyczne społeczeństwo oparte na „konsensusie" większości, egzekwowanym siłą, jest formą narzucania woli jednych drugim.
+- **Kant.** Nie był relatywistą, ale ponosi dużą część winy: „rewolucja kopernikańska" (umysł *tworzy* prawdę, zamiast ją odkrywać) i moralność „autonomiczna" (czyniona przez nas) zamiast „heteronomicznej" (od Boga). To subiektywizm — „dziewięć dziesiątych drogi do relatywizmu"; bronił uniwersalności i konieczności moralności kosztem jej *obiektywności*.
+- **Hegel i Nietzsche.** Hegel „zlikwidował ducha" Kantowskich „rzeczy samych w sobie" i dodał ideę powszechnego procesu (wszystko płynie, prawda i Bóg ewoluują). Nietzsche „Bóg umarł", egzystencjalizm, odrzucenie uniwersaliów (nawet Kierkegaard: Abraham „jednostka wyższa niż to, co ogólne"); pragmatyzm i pozytywizm (Comte, Ayer, Marks — „pozytywizm historyczny", wczesny Wittgenstein).
+- **Pozytywizm moralny jako prawo USA.** Wyrok *Planned Parenthood v. Casey* odrzucił odwołanie do naturalnego prawa moralnego (radykalniejszy niż *Roe v. Wade*).
+- **Dekonstrukcjonizm.** Negacja „intencjonalności" języka — Nietzsche jako pierwszy dekonstrukcjonista („nie pozbędziemy się Boga, dopóki nie pozbędziemy się gramatyki"). Hipokryzja relatywizmu: nie jest relatywistyczny wobec jednej rzeczy — własnego relatywizmu (i zwykle drugiej: aborcji; „nigdy nie słyszałem o relatywiście broniącym życia"). „Kursy klaryfikacji wartości" jako propaganda; relatywizm to creed, faith, religia.
+
+### Wywiad 4 — Dane, czyli z czego można wyciągać wnioski (s. 47–57)
+
+- **Filozofia jest nauką (w szerokim sensie).** Zakłada, że rzeczywistość jest racjonalna i poznawalna, wymaga dowodów i każe teorii podporządkować się danym (łac. *data* = „to, co dane"). Filozofia ma dane — jest nim zwykłe ludzkie doświadczenie (fenomenologia) — wbrew zarzutowi pozytywistów, że nie ma danych jak „nauki pozytywne".
+- **Cztery poziomy danych moralnych:**
+  1. **Indywidualne doświadczenie moralne** — trzy podstawowe słowa: *dobro* (rzeczy nie tylko pożądane, ale naprawdę pożądania godne — wiedza, zdrowie, przyjaźń), *słuszność/prawo* (sprawiedliwość, „prawa" osób — do życia, do własności), *powinność* (sumienie, które *informuje*, *porusza* i wywołuje *poczucie winy*).
+  2. **Zachowanie międzyosobowe** — kilkanaście (ok. 17) zjawisk nieobecnych u zwierząt i maszyn: kłótnia (spór o to, kto ma rację/prawo), a nie tylko walka; chwalenie i ganienie; *moralna* pochwała/nagana, a nie tresura; rozkazywanie (rozkaz zakłada wolną wolę), doradzanie, *zasłużone* nagradzanie i karanie („karzę cię, bo *zasłużyłeś*", a nie „zadaję ból, aż przestaniesz").
+  3. **Język moralny** — znaczenia słów moralnych, które wszyscy rozumiemy, są „skamielinami doświadczenia"; to materiał, który badał Sokrates (logiczna analiza języka potocznego).
+  4. **Historia i tradycja** — „demokracja zmarłych" (Chesterton), zbiorowa pamięć moralna; doświadczenie poszerzone poza jednostkę i teraźniejszość. Najtrwalsze i najbardziej moralne społeczeństwa założyli moraliści (Mojżesz, Konfucjusz, Mahomet); nośnikiem tradycji jest **rodzina** — gdy „przepaść pokoleniowa" robi się zbyt szeroka, społeczeństwo „przepada przez szczeliny".
+- **Najmocniejszy argument z danych** (tak bliski danym, że ledwie wygląda na argument): pierwsze, fundamentalne doświadczenie moralne człowieka jest zawsze *absolutystyczne* — dopiero później, wraz z „wyrafinowaniem", przychodzi relatywizm. Dzieci są „czarno-białe". A skoro w nauce dane sądzą teorię, a nie odwrotnie, to teoria relatywistyczna powinna ustąpić przed danymi.
+- **Analogia z buddyzmem.** Relatywizm zaprzecza danym moralnym tak, jak buddysta zaprzecza realności materii albo „Christian Science" realności choroby — każe nie ufać własnemu doświadczeniu, traktować je jako iluzję do przezwyciężenia wiarą. Stąd wniosek: to relatywizm jest „wiarą, dogmatem, ideologią", a absolutyzm moralny jest empiryczny i „przyjazny danym".
+- **Dwa wymiary danych — „jest" i „powinno być".** Tak jak mamy bezpośrednie „detektory" kolorów (oczy) i pragnień (samoświadomość), mamy też bezpośredni „detektor" dobra i zła (sumienie); jego dane są równie bezpośrednie jak dane o świecie i o naszych pragnieniach.
+- **Krytyka skrajnej psychologii.** Bardzo świecka psychologia uznaje słowa „powinien/słuszny/zły" za „błędy myślowe" („formułowanie zdań z «powinien»") — czyli jedyną rzeczą naprawdę złą staje się myślenie, że coś jest złe. 'Isa: niektórzy psychologowie odmawiają człowiekowi wolnej woli i odpowiedzialności — „są idee tak głupie, że tylko doktor filozofii może w nie uwierzyć".
 
 ## Aneks A — Osiem argumentów relatywisty i ich obalenie (wywiady 5–7)
 
